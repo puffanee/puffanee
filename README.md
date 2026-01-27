@@ -21,16 +21,6 @@
 <br>
 </p>
 
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puffanee&theme=monokai&hide_border=true">
-</details>
-
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">Puffanee Apps Status</summary>
-  If you want to see the status of my applications: https://status.puffanee.net.tr
-</details>
-
 <div align="center">
 Buy me a coffe <3<br>
 <a href="https://buymeacoffee.com/puffanee" target"blank_"><img src="https://github.com/puffanee/puffanee/assets/76112533/ed462683-623c-4250-ae76-7f7d40365285" width="200"></a>
