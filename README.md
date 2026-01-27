@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[Puffanee App Documents](https://github.com/puffanee/puffanee-docs)
+[Puffanee App Documents](https://puffanee.gitbook.io/)
 
 </div>
 
