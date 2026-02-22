@@ -8,6 +8,8 @@
 
 <div align="center">
 
+[Puffanee Services Status](https://status.puffanee.com/status/puffaneeco)
+
 [Puffanee App Documents](https://puffanee.gitbook.io/)
 
 </div>
